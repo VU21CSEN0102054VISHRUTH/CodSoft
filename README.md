@@ -1,4 +1,4 @@
-# CODSOFT_WD_01
+# CODSOFT_01
 ## Responsive Landing Page
 ---
 # Plant-X - Responsive Plant-Based Landing Page
